@@ -82,7 +82,7 @@
 
 ###
 
-<p align="left">Feel free to reach out me at arun05100612@outlook.com, if you have any queries or want to collaborate. Thanks for checking out, and I hope you find it useful!</p>
+<p align="left">Feel free to reach out me at arun05100612@outlook.com, if you have any queries or want to collaborate. Thanks for checking out and I hope you find it useful!</p>
 
 
 ###
