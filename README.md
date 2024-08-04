@@ -1,35 +1,28 @@
-
-
-###
-
-<h1 align="center">Hey Folks 👋 </h1>
+<h1 align="center">ARUNKUMAAR - DevOps Engineer </h1>
 
 <div align="center">
   <img height="180" src="https://d2gbo5uoddvg5.cloudfront.net/images/devops.gif"  />
 </div>
 
 
-###
-
-<h3 align="left">## A Little Glimpse  👩‍💻 </h3>
 
 
+<h3 align="left" style="font-size: 24px;"> A Little Glimpse About Me </h3>
 
 
-###
 
-<p align="left">- 🔭 I’m working as DevOps Engineer (Freelancing).<br>- 📚 I'm currently diving deep into K8s.<br>- ⚡ In my free time, I either enjoy watching movies, or I love to have fun by going out on my bike.</p>
 
-###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<p align="left" style="font-size: 19px;">-  I'm working as AWS DevOps Engineer .<br>-  I'm currently diving deep into K8s.<br>-  In my free time, either I enjoy watching movies or I love to have fun by going out on my bike.</p>
 
-###
+
+<h3 align="left"> Tech Stack :</h3>
+
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/amazonaws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
   <img width="12" />
@@ -64,30 +57,24 @@
   <img height="610" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F-UygBh3nnfEAAAAC%2Fcoding.gif&f=1&nofb=1&ipt=e8643c16a05b907ebfe19d5050b00e9ee59d96185d4394c1deb24c962cc198f1&ipo=images"  />
 </div>
 
-###
 
 
-###
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">   </h3>
 
-###
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ARUNKUMAAR-R&locale=en&hide_title=false&layout=compact&card_width=342&langs_count=5&theme=dracula&hide_border=false" height="220" alt="languages graph"  />
 </div>
+<br clear="both">
 
-###
-
-###
-
-<p align="left">Feel free to reach out me at arun05100612@outlook.com, if you have any queries or want to collaborate. Thanks for checking out and I hope you find it useful!</p>
+<img src="https://raw.githubusercontent.com/arunkumaar-r/arunkumaar-r/output/snake.svg" alt="Snake animation" />
 
 
-###
 
-###
+<p align="left" style="font-size: 19px;">See my works at <a href="https://drive.google.com/drive/folders/1p78T71sPwmSCvQ4R6VyqCAp5ef9EYb0Z?usp=drive_link" target="_blank">Google Drive</a>. Feel free to reach out me at <a href="mailto:arun05100612@outlook.com">arun05100612@outlook.com</a> , If you have any queries or want to collaborate. Thanks for checking out and I hope you find it useful!</p>
+
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arun-kumaar-30b888234/" target="_blank">
@@ -96,10 +83,9 @@
   <a href="https://www.instagram.com/alba.tr.oz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="40" alt="instagram logo"  />
   </a>
+  
   <a href="https://www.facebook.com/arunrascall/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="40" alt="facebook logo"  />
     <p><a href="https://www.buymeacoffee.com/ARUNRASCALL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ARUNRASCALL" /></a></p><br><br>
   </a>
 </div>
-
-###
