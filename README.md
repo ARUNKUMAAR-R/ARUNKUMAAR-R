@@ -81,7 +81,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="40" alt="instagram logo"  />
   </a>
   
-  
-    <p><a href="https://www.buymeacoffee.com/ARUNRASCALL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ARUNRASCALL" /></a></p><br><br>
-  </a>
+<p><a href="https://www.buymeacoffee.com/ARUNRASCALL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ARUNRASCALL" /></a></p><br><br>
+
 </div>
