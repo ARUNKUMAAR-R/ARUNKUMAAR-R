@@ -13,7 +13,7 @@
 
 
 
-<p align="left" style="font-size: 19px;">-  I'm working as AWS DevOps Engineer .<br>-  I'm currently diving deep into K8s.<br>-  In my free time, either I enjoy watching movies or I love to have fun by going out on my bike.</p>
+<p align="left" style="font-size: 19px;">-  I'm working as AWS DevOps Engineer .<br>-  I'm currently diving deep into K8s,HELM and Istio.<br>-  In my free time, either I enjoy watching movies or I love to have fun by going out on my bike.</p>
 
 
 <h3 align="left"> Tech Stack :</h3>
@@ -22,7 +22,7 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
   <img width="12" />
@@ -59,7 +59,7 @@
 
 
 
-<h3 align="left">   </h3>
+<h3 align="left">  GIT Stats : </h3>
 
 
 <div align="left">
@@ -84,8 +84,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="40" alt="instagram logo"  />
   </a>
   
-  <a href="https://www.facebook.com/arunrascall/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="40" alt="facebook logo"  />
+  
     <p><a href="https://www.buymeacoffee.com/ARUNRASCALL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ARUNRASCALL" /></a></p><br><br>
   </a>
 </div>
